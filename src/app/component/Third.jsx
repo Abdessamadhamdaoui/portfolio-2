@@ -26,7 +26,7 @@ export default function third() {
     <div className='box-container xl:p-20 2xl:p-20 lg:p-20 md:p-20 sm-p-0 xs:p-0'>
 
 <div>
-  <h1 style={{ color: 'rgb(245, 101, 57)' }} className='p-32 text-6xl font-semibold   '> Education</h1>
+  <h1 style={{ color: 'rgb(245, 101, 57)' }} className=' mb-20 xl:ml-20  lg:ml-20 md:ml-20 sm:ml-20 xs:ml-0  text-6xl font-semibold   '> Education</h1>
 </div>
  
 {isMobile? (<div>  < div style={{ backgroundColor: '#f565394d' }} className='box   h-40  hover:bg-amber-600 pt-5 w-screen  rounded-2xl  '
@@ -41,7 +41,7 @@ export default function third() {
          
 <div>
  <p className='text-white  text-xl font-bold mt-8 ml-5 '>Higher Secondary Education</p>
- <p className='text-gray-200  text-lg font-bold   ml-5'> bno lbaytar  Middle School </p>
+ <p className='text-gray-200  text-lg font-bold   ml-5'> bno lbaytar    </p>
 </div></div>
 
 
