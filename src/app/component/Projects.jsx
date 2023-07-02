@@ -16,7 +16,7 @@ function nothover (){
   
   return (
    
-      <div onMouseEnter={hover } onMouseLeave={nothover} style={{backgroundColor:'rgb(255, 118, 77)'}} className=' h-96 w-80   rounded-xl '> 
+      <div onMouseEnter={hover } onMouseLeave={nothover} style={{backgroundColor:'rgb(255, 118, 77)'}} className=' h-96 w-80  mt-60  rounded-xl '> 
       <div  className='flex  text-white  justify-center mt-10 font-bold text-2xl '><h1 className='  '> {title} </h1></div>
       <div   className=' w-full h-60   transform duration-700   relative  ' style={{  backgroundSize: '100% 100%', /* ,display:is?'block':'none'*/}}>
         
