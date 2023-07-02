@@ -38,7 +38,7 @@ export default function Home() {
       <Skills/> 
       <Expe/>
 
-<div className='text-center font-bold  text-6xl mb-20 ' style={{color:'rgb(245, 101, 57)'}}> projects  </div>
+<div className='text-center font-bold mt-60 text-6xl mb-20 ' style={{color:'rgb(245, 101, 57)'}}> projects  </div>
       <div>
   <div className='flex items-center w-full gap-20   justify-center xl:flex-row lg:flex-row md:flex-col sm:flex-col overflow-hidden    xs:flex-col'>
 
