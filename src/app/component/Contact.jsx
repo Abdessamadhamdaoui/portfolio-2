@@ -4,11 +4,11 @@ export default function Contact() {
   return (
     <div className='mt-80' id='contact'>
       
-<div className='  ml-20  text-6xl font-bold mt-40' style={{color:'rgb(255, 118, 77)'}}> contact </div>
+<div className='  xl:ml-20  lg:ml-20 md:ml-20 sm:ml-20 xs:ml-0  text-6xl font-bold mt-40' style={{color:'rgb(255, 118, 77)'}}> contact </div>
 
 
 <div className=' p-20 flex flex-row xl:flex-row lg:flex-row md:flex-col sm:flex-col xs:flex-col gap-28'>
-<div className='w-2/5 h-96  '>
+<div className='xl:w-2/5 lg:w-2/5 md:w-2/5 h-96  '>
 <div className="input-container w-full">
 <label style={{color:'#f56539', transform: 'translate(25px,50%)',backgroundColor:'rgb(33,33,33)'}} for="Email" className="inline-flex  px-2    text-md font-semibold  jss111" s >Name</label>
   <input style={{borderColor:'#f56539',backgroundColor:'transparent'}}  type="text" name="Name" className="text-gray-300 border-4 w-full    transition duration-200 ease-in-out font-primary font-medium form-input h-12 px-4  rounded-full" value=""/>
@@ -25,7 +25,7 @@ export default function Contact() {
   </button>
 
 </div>
-<div className='w-3/5 h-96  '>
+<div className='xl:w-3/5 lg:w-3/5 md:w-3/5 xs:w-full  h-96  '>
 
   <div className='mt-4'>
     <a href='mailto:hamdaouia071@gmail.com ' className='flex  text-2xl gap-7     '> 
