@@ -13,7 +13,7 @@ export default function Secend() {
 
         </div>
         </div>
-        <div className='mt-40 grid grid-cols-2 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 lx:grid-cols-2 2lx:grid-cols-2  xl:gap-40 lg:gap-40 md:gap-80 sm:gap-80 xs:gap-96  xs:grid-cols-1  '>
+        <div className='mt-40 grid grid-cols-2 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 lx:grid-cols-2 2lx:grid-cols-2  xl:gap-40 lg:gap-40 md:gap-80 sm:gap-80 xs:gap-[500px]  xs:grid-cols-1  '>
 
 <div className='w-full h-[300px] ml-40 md:w-4/5  xs:ml-5 sm:ml-5 md:ml-20 lg:ml-20'>
   <h1 style={{ color: 'rgb(245, 101, 57)' }} className='font-bold text-8xl'> who I  am</h1>
