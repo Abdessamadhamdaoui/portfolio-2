@@ -12,11 +12,11 @@ export default function Headforphone() {
       </div>
 
      
-<div className=' p-20 text-center  mt-[200px] '> 
+<div className='  text-center  mt-[200px] '> 
 <h2 className='text-lg font-semibold   text-gray-200 '>web   developer</h2>
 <h1 className='text-2xl font-bold   text-white'>Hamdaoui</h1>
-<p className='mt-4 font-light text-gray-300 text-xl '> There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared.</p>
-<a download href="/abdessamads_Resume_5_230702_003121.pdf" className='h-16 w-40 border-2 mt-4 text-orange-600 border-orange-600 rounded-full hover:bg-orange-600 text-xl hover:text-white transition duration-2000 '> download cv 
+<p className='mt-4 font-light text-gray-300 text-xl mb-8 '> There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared.</p>
+<a download href="/abdessamads_Resume_5_230702_003121.pdf" className='h-16 w-40 p-4   border-2   text-orange-600 border-orange-600 rounded-full hover:bg-orange-600 text-xl hover:text-white transition duration-2000 '> download cv 
 </a>
  </div>
 
