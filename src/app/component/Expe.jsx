@@ -26,7 +26,7 @@ export default function Expe() {
     <div className='box-container xl:p-20 2xl:p-20 lg:p-20 md:p-20 sm-p-0 xs:p-0'>
 
 <div>
-  <h1 style={{ color: 'rgb(245, 101, 57)' }} className='mb-40 text-6xl font-semibold  xl:left-3/4 lg:left-3/4 md:left-3/4 sm:left-1/4 xs:left-0'> Experience</h1>
+  <h1 style={{ color: 'rgb(245, 101, 57)' }} className='mb-40 text-4xl font- bold   text-center'> Experience</h1>
 </div>
  
 {isMobile? (<div>  < div style={{ backgroundColor: '#f565394d' }} className='box   h-40  hover:bg-amber-600 pt-5 w-screen  rounded-2xl  '
@@ -98,7 +98,7 @@ export default function Expe() {
       
       
       
-      style={{ backgroundImage: "url('https://o.remove.bg/downloads/4233dc72-7361-49ae-aa3c-452ae5131389/undraw_Profile_details_re_ch9r-removebg-preview.png')", 
+      style={{ backgroundImage: "url('https://dev-portfolio-template.netlify.app/static/media/expOrange.9383b2df.svg')", 
       backgroundSize: ' cover ' ,}}  className='w-2/6    '> </motion.div>  <div className='w-4/6'>  <motion.div style={{ backgroundColor: '#f565394d' }} className='box w-60 h-40  hover:bg-amber-600 pt-5  rounded-2xl opacity-5 '
        
       initial={{ opacity: 0 }}
