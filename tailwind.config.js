@@ -13,8 +13,9 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       screens: {
-        'xs': '200px', // Example: Extra small breakpoint at 480px
-        'xxl': '1920px', // Example: Extra extra large breakpoint at 1920px
+         
+        'xs': '300px',  
+        'xxl': '1920px',  
       },
     },
   },
